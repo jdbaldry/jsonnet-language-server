@@ -56,6 +56,6 @@
 		"vscode:prepublish": "npm run compile",
 		"compile": "tsc -b",
 		"watch": "tsc -b -w",
-		"lint": "eslint ./src --ext .ts,.tsx",
+		"lint": "eslint ./src --ext .ts,.tsx"
 	}
 }
