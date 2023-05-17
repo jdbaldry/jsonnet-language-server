@@ -1,6 +1,7 @@
 #+TITLE: Jsonnet Language Server
 
-*Warning: This project is in active development and is likely very buggy.*
+*Warning: This project is no longer in active development*
+*Use the Grafana Labs maintained tool instead: https://github.com/grafana/jsonnet-language-server.*
 
 A *[[https://langserver.org][Language Server Protocol (LSP)]]* server for [[https://jsonnet.org][Jsonnet]].
 
